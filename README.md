@@ -33,7 +33,7 @@
 
 ```bash
 # Clone o repositório do Github
-$ git clone https://github.com/andrelzlima7/kanban
+$ git clone https://github.com/andrelzlima7/kanban.git
 
 # Instale as dependências necessárias
 $ npm install
