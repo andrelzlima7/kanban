@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src=".github/preview.png">
+    <img src="public/preview.png">
    
 </h1>
 
