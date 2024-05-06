@@ -30,5 +30,19 @@
 - Substitua as variáveis no aquivo "globals.css" o trecho correspondente ao código copiado (@layer Base)
 
 ## Download
-### Clone o repositório do Github
+
+```bash
+# Clone o repositório do Github
+$ git clone https://github.com/andrelzlima7/kanban
+
+# Instale as dependências necessárias
+$ npm install
+
+# Inicie o projeto
+$ npm run dev
+```
+
+## Link de acesso a aplicação
+
+- https://kanban-cyan-three.vercel.app/
 
